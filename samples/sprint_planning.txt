@@ -1,0 +1,12 @@
+Sprint Planning — 2 Oct 2026 | Attendees: Priya, Rohan, Sneha, Amit
+Priya: Good morning team. Sprint 14 starts today, ends 16 October. Main goal is loan app demo for end-term.
+Rohan: I finished the scoring engine yesterday. Priya, can you review the DTI hard rule today?
+Priya: Yes, Rohan, I will review the scoring logic by tomorrow EOD.
+Sneha: I will complete the Streamlit UI for single applicant by 5 October. Need sample data from Amit.
+Amit: Agreed. I will share 10-row sample_data.csv by tomorrow morning. It will cover approve, refer and reject cases.
+Rohan: We decided to use Gemini 1.5 Flash free API for AI explanation, not paid OpenAI.
+Priya: Important deadline — deployment on Streamlit Cloud must be done by 8 October. Sneha will handle deployment.
+Sneha: Also need video script. Amit will draft video script by 7 October.
+Amit: One blocker — cloudflared tunnel URL expires. We agreed to move to permanent Streamlit Cloud link.
+Priya: Action — Rohan will add unit test for defaults greater than equal to 3 hard reject by Friday.
+Rohan: Noted. Let's meet again on Monday for review.
