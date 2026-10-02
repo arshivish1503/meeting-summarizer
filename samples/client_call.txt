@@ -1,0 +1,11 @@
+Client Call — Website Redesign | 28 Sep 2026 | Attendees: Neha (Client), Vikram, Kavya
+Neha: Hi team, we need the homepage redesign live before Diwali, 20 October is final deadline.
+Vikram: Understood. We will share homepage mockups by 3 October for approval.
+Neha: Budget approved at Rs. 80000. Please do not exceed without approval.
+Kavya: I will prepare content outline including hero text and testimonials by 2 October.
+Vikram: We decided the tech stack will be React + Tailwind, hosting on Vercel.
+Neha: Please share staging link every Friday. Next review is Friday 6 October.
+Kavya: Action for me — collect logo and brand colors from Neha by tomorrow.
+Neha: I will send brand kit by tonight urgently.
+Vikram: I will set up analytics and contact form testing by 10 October. This is high priority.
+Neha: Agreed — final UAT and payment after go-live on 20 October.
