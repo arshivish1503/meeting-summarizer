@@ -1,0 +1,10 @@
+College Project Discussion — End Term | 30 Sep 2026 | Attendees: Ishaan, Aarav, Diya
+Ishaan: Our end-term needs app link, project document and video. Deadline is next month.
+Aarav: I will build the Streamlit app this week. Ishaan will write the evaluation answers doc by Sunday.
+Diya: I will record the demo video and edit captions by next Wednesday.
+Ishaan: We decided topic 9 meeting summarizer as second project since evaluation questions are same.
+Aarav: Need 3 sample transcripts. Diya will create sample meeting texts by Friday.
+Diya: Also need Gemini API key. Ishaan will generate free key from AI Studio tomorrow.
+Ishaan: Important — every action must have owner and due date, else evaluator deducts marks.
+Aarav: I will test edge case where transcript is under 50 characters and show validation error.
+Diya: Agreed. Final review meeting on Monday 7 October morning.
